@@ -49,10 +49,10 @@ src="https://www.facebook.com/tr?id=883315832122742&ev=PageView&noscript=1"
 <!-- End Facebook Pixel Code -->
 
 <link rel="icon" href="images2020/favicon.ico" type="image/x-icon" />
-<link rel="canonical" href="https://www.thestudiomd.com/eye-lift-blepharoplasty-nyc"/>
-<title>Blepharoplasty | Eye Lift (Eyelid Surgery)| StudioMD NYC</title>
-<meta name="Description" content="Blepharoplasty: The 20 Minute Eyelift. Smooth and tighten wrinkled eyelid tissues and create a more youthful look. Eyelid lift surgery costs, before & afters."/>
-<meta name="Keywords" content="Best Eye Lift Surgery NYC, Blepharoplasty Manhattan, New York City, Cost, Price, Free Consultation, Reviews"/>
+<link rel="canonical" href="https://www.thestudiomd.com/fat-transfer-natural-breast-augmentation-nyc"/>
+<title>Fat Transfer Natural Breast Augmentation | StudioMD NYC</title>
+<meta name="Description" content="Restore your confidence with implant-free, soft & natural-looking breast augmentation. Find out fat transfer surgery cost and see before & after real results."/>
+<meta name="Keywords" content="Best Fat Transfer Breast Augmentation Surgery NYC, Natural Breast Augmentation Manhattan, New York City, Cost, Price, Free Consultation, Reviews"/>
 <link href="p7lbm/p7LBM-Core.css" rel="stylesheet" type="text/css" media="all" />
 <link href="p7lbm/p7LBM-Custom-01.css" rel="stylesheet" type="text/css" media="all" />
 <link href="studiostyles2020tx.css" rel="stylesheet" type="text/css" media="all" />
@@ -249,20 +249,20 @@ ACCORDION - Style the element that is used to open and close the accordion class
 <div class="lbm-col-wrapper">
 <div class="lbm-column width-20"> <br /></div>
 <div class="lbm-column width-40"><span itemprop="availableService" itemscope itemtype="https://schema.org/MedicalProcedure">
-<h1 style="font-family: philosopher" itemprop="name">BLEPHAROPLASTY | EYE LIFT (EYELID SURGERY)</h1>
+<h1 style="font-family: philosopher" itemprop="name">FAT TRANSFER BREAST AUGMENTATION</h1>
 <div class="line"></div><br />
 <div class="aligner4"> <strong>GOAL</strong></div>
-<div class="aligner1" align="left" itemprop="description">To smooth and tighten loose, droopy, wrinkled eyelid tissues, to remove “puffy” fatty pockets either above or below the eye.<br>Creates a more youthful, positive and natural appearance in your eyes.
+<div class="aligner1" align="left" itemprop="description">Improve breast shape and size using the patient's natural fat.
 </div><br />
 <div class="line"></div><br />
 <div class="aligner4"> <strong>PROCEDURES</strong></div>
-<div class="aligner2" itemprop="howPerformed">Surgical eye lift & Non-surgical eye lift</div><br />
+<div class="aligner2" itemprop="howPerformed">Natural fat cells harvested from a donor location, such as the patient’s abdomen, buttocks, hips, or back, are inserted into the breast to increase volume and symmetry.</div><br />
 <div class="line"></div><br />
 <div class="aligner4"> <strong>DOWNTIME</strong></div>
-<div class="aligner3" itemprop="followup">Minimal</div><br />
+<div class="aligner3" itemprop="followup">Minimal downtime. Patients can return to work the day following the procedure.</div><br />
 <div class="line"></div><br /></span>
 <div class="aligner4"> <strong>COST</strong></div>
-<div class="aligner3" itemprop="PriceRange">$5,500</div>
+<div class="aligner3" itemprop="PriceRange">TBD</div>
 </div><br /><br /><br /><br />
 <div class="lbm-column width-30">
 <div id="p7BFA_1" class="p7BFA bfa-noscript bfa-light">
@@ -301,73 +301,6 @@ Dr. Sharon Giese, MD is an internationally recognized board certified <strong st
 <div class="lbm-column-bb width-15"> 
 </div></div></div>
 
-
-<div class="lbm-row"> 
-<div class="lbm-col-wrapper">
-<div class="lbm-column width-100 lbm-centered">
-<strong style="font-family: philosopher; font-size: 2.5em; color:#7A6365">BEFORE / AFTER GALLERY FOR EYE LIFT</strong>
-</div></div></div>
-
-<div id="slideshowbb" class="lbm-row"> 
-<div class="lbm-col-wrapper">
-<div class="lbm-column width-100">
-<!-- Slideshow container -->
-<div class="slideshow-container">
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="images2020/before after/eyelift1.jpg" style="width:100%" loading="lazy">
-    <div class="text">Patient 1</div>
-  </div>
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="images2020/before after/eyelift2.jpg" style="width:100%" loading="lazy">
-    <div class="text">Patient 2</div>
-  </div>
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="images2020/before after/eyelift3.jpg" style="width:100%" loading="lazy">
-    <div class="text">Patient 3</div>
-  </div>
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-<script>
-var slideIndex = 1;
-showSlides(slideIndex);
-// Next/previous controls
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-// Thumbnail image controls
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1} 
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none"; 
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block"; 
-  dots[slideIndex-1].className += " active";
-}
-</script>
-</div></div></div>
 
 <div id="contact" class="lbm-row">
 <div class="lbm-col-wrapper">
@@ -422,58 +355,57 @@ els[i].classList[fnName](className);
 <h3 itemprop="name">Frequently Asked Questions</h3>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">WHAT IS BLEPHAROPLASTY?</span></div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">Also known as Rhytidectomy, a facelift is a cosmetic surgery that aims to lift and pull back the skin to make the face tighter and smoother. It’s a procedure designed to reduce the sagging or flabby excess skin in the lower half of the face, mainly around your jowls and neck. A facelift can also be combined with other facial rejuvenation techniques, such as Blepharoplasty, or other non-surgical techniques such as Botox.
+<div class="accordion"><span itemprop="name">WHAT IS A BREAST FAT TRANSFER TRANSPLANT?</span></div>
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">Autologous fat transfer (AFT), also known as Fat Grafting, is a minimally invasive procedure that uses your fat tissue to increase the size or enhance the contour of your breasts. It is a fairly new form of breast augmentation and an eminent tool for plastic surgeons in areas like the face, hands, buttocks, and especially breasts.<br>
+Non Surgical breast lifts, such as AFT, won’t provide the same dramatic results as a traditional mammoplasty surgery might. But they are worth considering if you’re looking for a way to perk up your breasts with less risk and expense.
 </span>
 </div></div>
   
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">WHAT IS A MINIMAL (MINIMALLY INVASIVE) FACELIFT SURGERY?</span></div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">The MACS-lift (Minimal Access Cranial Suspension Lift) is a technique that only involves local anesthesia or twilight sedation to brush up drooping of the soft tissues and loosening of the skin in your face and the neck. This procedure will address jowls, neck, dropped cheeks, and skin through a small incision that stops at the bottom of the earlobe. There is no cut behind the ear, so unlike traditional facelift surgery techniques, the incision is smaller and produces no scarring behind the ear. It is recommended for relatively young patients - usually in their 40s - that have already benefited from fillers and laser procedures, but that need a more cost-effective and longer-lasting rejuvenation.<br>
-In this less invasive approach, the surgeon will tighten the muscle layer without dissecting it, trimming the excess skin and closing the incisions with fine plastic surgery sutures. With that, the visibility of any incisions is minimized and the recovery time is cut down from a few weeks to only a few days.
-</span>
-</div></div>
-  
-  
-<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">WHAT HAPPENS DURING A FACELIFT?</span></div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">So many different kinds of procedures vary according to your age, skin condition, and aesthetic goal. But, as an overall rule, the surgeon will work with incisions above your hairline at the temples that extend down in front of your ear, underneath your earlobe, and behind the ear. And, sometimes, additional tiny incisions right under your chin and jawline. Through these incisions, the surgeon will remove the surplus facial skin and pull the remaining skin backward and upwards before stitching it into its new position. At this point, if necessary, the surgeon can redistribute facial fat and tissue or even add some to your face. Finally, the incisions will be sutured and a bandage will be placed on your face to minimize bruising and swelling.
+<div class="accordion"><span itemprop="name">HOW IS THE BREAST AUGMENTATION WITH FAT TRANSFER PROCEDURE?</span></div>
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">During the Fat Grafting procedure, the doctor will carefully conduct liposuction to remove fat tissue from an area of your body with excess fat (typically your thighs, buttocks, or belly). The fat extracted will be prepared and then injected into your breast region, in thin fine strips less than 1 mm in width. Many precautions are taken, including avoiding trauma at the liposuction site, careful refinement of the tissue, and injections in small aliquots instead of large portions. It commonly takes 4 to 5 hours. The whole procedure is done under local anesthetic and quite promptly. There are no scars and your breasts will look (and feel) natural, after all, they are still natural and assembled with your very own tissue.
 </span>
 </div></div>
   
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">WHEN SHOULD I GET A FACE LIFT?</span>
+<div class="accordion"><span itemprop="name">WHO IS A GOOD CANDIDATE FOR FAT TRANSFER SURGERY?</span></div>
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">AFT can be a good option if your goal is a slight breast enhancement or a modest breast size increase, such as 1 cup size. It is recommended if you are looking for a less invasive procedure compared with breast implants. Overall, the best candidates are women with large hips and small breasts. Because large hips mean good fat for harvesting in liposuction. Additionally, women with asymmetrical breasts or 'depressions' in the breasts are good potential candidates for fat grafting.
+</span>
+</div></div>
+  
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<div class="accordion"><span itemprop="name">IS BREAST FAT TRANSFER PAINFUL?</span>
 </div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">It is important to note that skin elasticity is one of the key factors in facelift timing. And timing is very important when it comes to cosmetic surgery. If you experience skin sagging and deeper folds appearing on the face you can always benefit from the surgery, but it is crucial that you still have sufficient skin elasticity to produce a good result out of it. That said, there is no perfect age for having a facelift. It is a personal decision since everyone ages differently and feels differently about aging. But as a rule of thumb, if you are already considering it in your 40s, you may not want to leave it till later. 
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">No, it is not painful. During the procedure, you will be under the influence of an anesthetic or fully sedated and will not feel anything. The recovery time is fast-moving, but there will be some swelling and bruising in the days immediately after surgery. It's only temporary and tends to quickly disappear. Painkillers can be prescribed if you need them, although they are often not required. 
 </span>
 </div></div>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">HOW IS THE RECOVERY FROM A FACELIFT LIKE?</span>
+<div class="accordion"><span itemprop="name">HOW IS THE RECOVERY IN THE POST-OP OF A NATURAL BREAST ENHANCEMENT?</span>
 </div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">It varies significantly from patient to patient but it usually takes 2 to 4 weeks to fully recover from a facelift. Since bruising is quite visible for at least 2 weeks, you should consider taking this time off work. You should also avoid showering or getting the bandages wet in the first 2 days. It is important to refrain from strenuous activity, saunas, and massages for at least 2 weeks. Following the operation, it is helpful to keep your head propped up with pillows for a couple of days while resting to reduce the swelling. For the minimal access facelift, the recovery is generally less painful and produces less swelling than more extensive facelifts.
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">It depends on each patient, but you may be bruised and swollen for 1-3 weeks and should avoid exercise during this time. If you wish, you can be off work for 1-2 weeks for a more easeful recovery, but it is not mandatory. In the first few days following your fat transfer augmentation, you may feel some discomfort around the breasts and experience an aching sensation. Total healing depends on how many areas the initial liposuction was carried out on. Your doctor will guide your recovery, after assessing your current physical condition.
 </span>
 </div></div>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">IS HAVING A FACELIFT PAINFUL?</span>
+<div class="accordion"><span itemprop="name">WHAT ARE THE BENEFITS OF NATURAL BREAST AUGMENTATION?</span>
 </div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">During the procedure, having had a general anesthetic, you’ll be asleep while the surgeon and clinical team perform the surgery and won’t feel a thing. In the first couple of days, you can expect mild to moderate pain and having drainage placed where the incisions were done. Following the surgery, your doctor will prescribe painkillers taking into account your level of pain and discomfort. All aching should slow down as you recover. Your doctor or staff will check on you in the process to assure that your healing and well-being are progressing accordingly.
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">Not only does it improve the size and symmetry of breasts without surgery or stitches, but this implant-free approach delivers results that look and feel natural. Breast fat transfer offers no risk of implant rejection or allergic reactions. You also won’t have any scarring, due to the minimally invasive treatment that only requires several freckle-sized entry sites. And there is no maintenance necessary, autologous breast augmentations age normally and do not require additional care after treatment.
 </span>
 </div></div>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">HOW MUCH DOES IT COST TO HAVE A FACE LIFT?</span>
+<div class="accordion"><span itemprop="name">WHAT IS THE COST OF BREAST AUGMENTATION WITH FAT TRANSFER IN NYC?</span>
 </div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">The overall cost of a facelift can vary depending on the extent of your procedure. As a guidance you can expect to pay from [TBD}  for a minimally invasive facelift.
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">Your exact cost for a natural breast enhancement is based on your unique body size and shape as well as the amount of augmentation you desire. The cost is calculated for the two procedures (liposuction and breast augmentation). You can expect the cost of a Breast Augmentation with Fat Transfer to be between $X,000 and $X,000, which you can pay over time.
 </span>
 </div></div>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">WHERE CAN I GET A FACE LIFT NEAR ME?</span>
+<div class="accordion"><span itemprop="name">WHERE CAN I GET BREAST FAT TRANSFER NEAR ME?</span>
 </div>
-<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">At StudioMD NY we understand the impact a facelift can have uplifting your expressions and your self-esteem. Our facial features convey emotions and signal characteristics of age and quality of life. And we want you to live your best life, looking as young as you feel.<br>
-Our team of dedicated and highly qualified plastic surgeons and skin care specialists are here to provide safe and state-of-the-art treatments to help you achieve health, happiness, and the results you’ve always dreamed of. Dr. Sharon Giese will evaluate your face and neck as a whole and develop a customized treatment program, always considering your thoughts, preferences, and needs. Book an appointment and let’s work together towards your aesthetic goals.
+<div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">StudioMD is committed to helping you achieve your personalized cosmetic goals. We provide state-of-the-art facilities and a team of top-notch specialists who are experts in the fields of fat grafting, among several natural enhancements.<br>
+Dr. Sharon Giese is a breast specialist, completing a fellowship in breast and aesthetic surgery at Georgetown University. As a leading authority on plastic surgery, Dr. Giese has been featured in many broadcasts.
 </span>
 </div></div>
 </div>
